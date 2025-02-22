@@ -1,0 +1,6 @@
+root=seu_email_aqui
+
+mailhub=smtp.gmail.com:587
+AuthUser=seu_email_aqui
+AuthPass=sua_Senha
+UseSTARTTLS=yes
