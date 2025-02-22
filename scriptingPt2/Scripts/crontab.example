@@ -1,2 +1,3 @@
 */2 * * * * [caminho-do-sript]/monitoracao-servidor.sh
 
+14 10 * * * [caminho-do-script]/backup-amazon.sh
